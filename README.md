@@ -57,6 +57,5 @@ The dataset consists of:
 
 - Other countries like the **UAE** show **limited online delivery adoption**, highlighting potential global growth opportunities  
 - **Bar charts** illustrate how online delivery varies across countries
-
 ---
 
