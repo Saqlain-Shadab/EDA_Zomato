@@ -1,4 +1,7 @@
-# 🍽️ Zomato's Exploratory Data Analysis
+<div align="center"> 
+  
+## 🍽️ Zomato's Exploratory Data Analysis
+</div>
 
 **Project Overview**  
 This project analyzes restaurant data from **Zomato**, focusing on ratings, geographic distribution, and online delivery trends. The goal is to explore how restaurant ratings vary by region, identify market trends, and assess online delivery adoption.
